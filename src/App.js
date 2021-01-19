@@ -71,6 +71,7 @@ function App() {
     <div className="app">
       <img
         src="/background.svg"
+        alt="backgroundImage"
         style={{
           display: "block",
           marginLeft: "auto",
